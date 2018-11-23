@@ -1,1 +1,0 @@
-Defines a simple group with a single ACL.
